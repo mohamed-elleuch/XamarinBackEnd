@@ -1,0 +1,12 @@
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\bin\Debug\netstandard2.0\AppTestMvvm.deps.json
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\bin\Debug\netstandard2.0\AppTestMvvm.dll
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\bin\Debug\netstandard2.0\AppTestMvvm.pdb
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.csprojResolveAssemblyReference.cache
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.csproj.CoreCompileInputs.cache
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.App.xaml.g.cs
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.MainPage.xaml.g.cs
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.AssemblyInfoInputs.cache
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.AssemblyInfo.cs
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.dll
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\obj\Debug\netstandard2.0\AppTestMvvm.pdb
+C:\Users\MohamedElleuch\source\repos\AppTestMvvm\AppTestMvvm\AppTestMvvm\bin\Debug\netstandard2.0\SL.dll
